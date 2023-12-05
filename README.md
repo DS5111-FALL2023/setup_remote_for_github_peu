@@ -38,6 +38,11 @@ user.email=efrainolivaresuva@gmail.com
 * Send a link in Canvas to your repository
 * add a screenshot **TO YOUR README.md** of an `ls` showing the files in `~/.ssh`, followed by the `git config...` and `ssh -T...` commands showing the expected input.  Look at [github docs image markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 
+## Screenshot of the ubuntu console:
+![Screenshot of ubuntu console showing `ls` in `~/.ssh`, `git config ...` and `ssh -T ...`](~/ubuntu-commandpromt.png)
+
+
+
 # Quiz - 10 points
 * A quiz will follow wich will focus just on this content.  It's `open book` or `open internet`.
 
